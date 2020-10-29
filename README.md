@@ -29,7 +29,7 @@
 人文：  
 北京大学、南京大学、复旦大学、华东师范大学、湖南大学、上海外国语大学  
 部分offer展示：  
-<div align="center"><img width=50% height=50% />![中科大](https://github.com/chenxibaoyan/chenxibaoyan.github.io/blob/main/%E4%B8%AD%E7%A7%91%E5%A4%A7.jpg?raw=true)</div>
+<div align="center">![中科大](https://github.com/chenxibaoyan/chenxibaoyan.github.io/blob/main/%E4%B8%AD%E7%A7%91%E5%A4%A7.jpg?raw=true)</div>
 <div align="center"><img src="https://github.com/chenxibaoyan/chenxibaoyan.github.io/blob/main/%E5%8D%8E%E4%B8%9C%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6.jpg?raw=true" width=50% height=50% /></div>
 <div align="center"><img src="https://github.com/chenxibaoyan/chenxibaoyan.github.io/blob/main/%E5%93%88%E5%B7%A5%E5%A4%A7%E7%94%B5%E6%B0%94%E7%9B%B4%E5%8D%9A.jpg?raw=true" width=50% height=50% /></div>
 <div align="center"><img src="https://github.com/chenxibaoyan/chenxibaoyan.github.io/blob/main/%E5%93%88%E5%B7%A5%E5%A4%A7%E7%94%B5%E6%B0%94%E7%A1%95%E5%A3%AB.jpg?raw=true" width=50% height=50% /></div>
