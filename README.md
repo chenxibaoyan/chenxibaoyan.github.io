@@ -30,11 +30,11 @@
 北京大学、南京大学、复旦大学、华东师范大学、湖南大学、上海外国语大学  
 部分offer展示：  
 <img src="https://github.com/chenxibaoyan/chenxibaoyan.github.io/blob/main/%E4%B8%AD%E7%A7%91%E5%A4%A7.jpg?raw=true" width=50% height=50% div align=center/>
-<img src="https://github.com/chenxibaoyan/chenxibaoyan.github.io/blob/main/%E5%8D%8E%E4%B8%9C%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6.jpg?raw=true" width=50% height=50% div align=center />
-<img src="https://github.com/chenxibaoyan/chenxibaoyan.github.io/blob/main/%E5%93%88%E5%B7%A5%E5%A4%A7%E7%94%B5%E6%B0%94%E7%9B%B4%E5%8D%9A.jpg?raw=true" width=50% height=50% div align=center />
-<img src="https://github.com/chenxibaoyan/chenxibaoyan.github.io/blob/main/%E5%93%88%E5%B7%A5%E5%A4%A7%E7%94%B5%E6%B0%94%E7%A1%95%E5%A3%AB.jpg?raw=true" width=50% height=50% div align=center />
-<img src="https://github.com/chenxibaoyan/chenxibaoyan.github.io/blob/main/%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E6%96%87%E7%89%A9.jpg?raw=true" width=50% height=50% div align=center />
+<img src="https://github.com/chenxibaoyan/chenxibaoyan.github.io/blob/main/%E5%8D%8E%E4%B8%9C%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6.jpg?raw=true" width=50% height=50% div align=center/>
+<img src="https://github.com/chenxibaoyan/chenxibaoyan.github.io/blob/main/%E5%93%88%E5%B7%A5%E5%A4%A7%E7%94%B5%E6%B0%94%E7%9B%B4%E5%8D%9A.jpg?raw=true" width=50% height=50% div align=center/>
+<img src="https://github.com/chenxibaoyan/chenxibaoyan.github.io/blob/main/%E5%93%88%E5%B7%A5%E5%A4%A7%E7%94%B5%E6%B0%94%E7%A1%95%E5%A3%AB.jpg?raw=true" width=50% height=50% div align=center/>
+<img src="https://github.com/chenxibaoyan/chenxibaoyan.github.io/blob/main/%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E6%96%87%E7%89%A9.jpg?raw=true" width=50% height=50% div align=center/>
 <img src="https://github.com/chenxibaoyan/chenxibaoyan.github.io/blob/main/%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%AD%A6%E5%BE%AE%E7%94%B5%E5%AD%90.jpg?raw=true" width=50% height=50%
-div align=center />
-<img src="https://github.com/chenxibaoyan/chenxibaoyan.github.io/blob/main/%E6%B5%99%E5%A4%A7%E7%89%A9%E7%90%86%E7%9B%B4%E5%8D%9A.jpg?raw=true" width=50% height=50% div align=center />
-<img src="https://github.com/chenxibaoyan/chenxibaoyan.github.io/blob/main/%E6%B8%85%E5%8D%8E%E7%94%9F%E7%89%A9%E7%9B%B4%E5%8D%9A2.jpg?raw=true" width=50% height=50% div align=center />
+div align=center/>
+<img src="https://github.com/chenxibaoyan/chenxibaoyan.github.io/blob/main/%E6%B5%99%E5%A4%A7%E7%89%A9%E7%90%86%E7%9B%B4%E5%8D%9A.jpg?raw=true" width=50% height=50% div align=center/>
+<img src="https://github.com/chenxibaoyan/chenxibaoyan.github.io/blob/main/%E6%B8%85%E5%8D%8E%E7%94%9F%E7%89%A9%E7%9B%B4%E5%8D%9A2.jpg?raw=true" width=50% height=50% div align=center/>
