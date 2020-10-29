@@ -22,18 +22,29 @@
 选择与自己匹配的导师决定了硕博阶段会过的怎样。本工作室会结合学员的科研兴趣，调研导师的学术水平、实验室氛围、学生的成果/未来去向，该科研方向的潜力、以后可能的学术界/工业界去向等等。  
 注：该调研会耗费大量的时间精力，因咨询人数过多而精力确实有限，暂时只针对本科985专业前5%，211前3%，双非专业第一。如果调研难度过大，可能价格较高。因此建议符合：本科985专业前5%，211前3%，双非专业第一的学生，**在决定直博的情况下**，再选择本业务。若打算只读硕士，不需要选择该业务。
 ### 四、成功案例——学员上岸学校  
-理科：  
-清华大学、浙江大学、武汉大学、上海科技大学、中科院；  
-工科：  
-清华大学、北京大学、浙江大学、中国科学技术大学、天津大学、东南大学、同济大学、哈尔滨工业大学、上海科技大学、华北电力大学  
-人文：  
-北京大学、南京大学、复旦大学、华东师范大学、湖南大学、上海外国语大学  
-部分offer展示：  
-<div align="center"><img src="https://github.com/chenxibaoyan/chenxibaoyan.github.io/blob/main/%E4%B8%AD%E7%A7%91%E5%A4%A7.jpg?raw=true" width=50% height=50% /></div>
-<div align="center"><img src="https://github.com/chenxibaoyan/chenxibaoyan.github.io/blob/main/%E5%8D%8E%E4%B8%9C%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6.jpg?raw=true" width=50% height=50% /></div>
-<div align="center"><img src="https://github.com/chenxibaoyan/chenxibaoyan.github.io/blob/main/%E5%93%88%E5%B7%A5%E5%A4%A7%E7%94%B5%E6%B0%94%E7%9B%B4%E5%8D%9A.jpg?raw=true" width=50% height=50% /></div>
-<div align="center"><img src="https://github.com/chenxibaoyan/chenxibaoyan.github.io/blob/main/%E5%93%88%E5%B7%A5%E5%A4%A7%E7%94%B5%E6%B0%94%E7%A1%95%E5%A3%AB.jpg?raw=true" width=50% height=50% /></div>
-<div align="center"><img src="https://github.com/chenxibaoyan/chenxibaoyan.github.io/blob/main/%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E6%96%87%E7%89%A9.jpg?raw=true" width=50% height=50% /></div>
-<div align="center"><img src="https://github.com/chenxibaoyan/chenxibaoyan.github.io/blob/main/%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%AD%A6%E5%BE%AE%E7%94%B5%E5%AD%90.jpg?raw=true" width=50% height=50% /></div>
-<div align="center"><img src="https://github.com/chenxibaoyan/chenxibaoyan.github.io/blob/main/%E6%B5%99%E5%A4%A7%E7%89%A9%E7%90%86%E7%9B%B4%E5%8D%9A.jpg?raw=true" width=50% height=50% /></div>
-<div align="center"><img src="https://github.com/chenxibaoyan/chenxibaoyan.github.io/blob/main/%E6%B8%85%E5%8D%8E%E7%94%9F%E7%89%A9%E7%9B%B4%E5%8D%9A2.jpg?raw=true" width=50% height=50% /></div>
+部分offer：
+清华大学生命科学
+清华大学人工智能
+北京大学燕京学堂
+北京大学工学院
+复旦大学文物与博物馆学
+上海交通大学电子科学与技术
+浙江大学电子科学与技术
+浙江大学控制科学与工程
+浙江大学物理学院
+中国科学技术大学人文学院
+南京大学电子科学与技术
+南京大学文物与博物馆学
+中国人民大学高瓴人工智能学院
+哈尔滨工业大学电气工程
+东南大学电气工程
+天津大学电气工程
+天津大学微电子
+上海科技大学电子科学与技术
+上海科技大学生命科学
+华东师范大学亚欧商学院
+华北电力大学电气工程
+山东大学电气工程
+山东大学生命科学
+…
+注：以上仅统计的全程保过的学员
